@@ -1,5 +1,6 @@
 ## Setup and Execution
 
+npm install
 
 npx hardhat run scripts/deploy.js --network goerli
 
